@@ -10,8 +10,10 @@ You need to have this installed on your computer.
 # HOW TO USE
 1.  Clone this repository
 2. Locate the repository in your command line.
-3. $fee.py YOUR_PURCHASE_VOLUME    
-     eg. fee.py 500   if you are buying 500 stocks.
+3. ```
+   $fee.py YOUR_PURCHASE_VOLUME
+   ```
+   eg. fee.py 500   if you are buying 500 stocks.
 4. The result will be printed out 
 
 # FURTHER STEPS
